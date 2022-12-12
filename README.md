@@ -13,3 +13,5 @@ I will always try to do the daily challenges in Excel. Macros will only be used 
 | 3 | :star: :star: | 8 | :star: :star: | 13 | :calendar:  | 18 | :calendar: | 23 | :calendar: |
 | 4 | :star: :star: | 9 | :star: :star: | 14 | :calendar:  | 19 | :calendar:  | 24 | :calendar: |
 | 5 | :star: :star: | 10 |  :star: :star: | 15 | :calendar:  | 20 | :calendar: | 25 | :calendar: |
+
+Day 11 thanks to the great idea of [solareon](https://github.com/solareon/aoc-excel-2022/blob/main/AoC2022_Day11_demo.xlsx)
